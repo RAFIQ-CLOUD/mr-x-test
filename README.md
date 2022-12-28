@@ -12,7 +12,7 @@
 
 
 <p align="center">
-  <img src="https://github.com/GreyMattersBot/url-auto-delete-shortener-bot/blob/main/assets/IMG_20220105_010453-removebg-preview.png" alt="GreyMatter's Bot Logo">
+  <img src="https://telegra.ph/file/c951141d507c09cd264cd.jpg" alt="">
 </p>
 <h1 align="center">
   <b>GreyMatter's Bot</b>
