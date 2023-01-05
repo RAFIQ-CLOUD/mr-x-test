@@ -16,7 +16,7 @@
   <img src="https://telegra.ph/file/c951141d507c09cd264cd.jpg" alt="">
 </p>
 <h1 align="center">
-  <b>GreyMatter's Bot</b>
+  <b>MR X FILTER BOT</b>
 </h1>
 
 
