@@ -48,7 +48,7 @@ async def start(client, message):
             InlineKeyboardButton('⚚ Add Me To Your Groups ⚚', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
             ],[
             InlineKeyboardButton('⚡ CHANNEL ⚡', url='https://t.me/MROTTTamilOffl'),
-            InlineKeyboardButton('⚡ DISCUSSION ⚡', url='https://t.me/MROTTTamilOffl')
+            InlineKeyboardButton('⚡ DISCUSSION ⚡', url='https://t.me/MR_OTT_REQUEST')
             ],[
             InlineKeyboardButton('♻️ HELP ♻️', callback_data='help'),
             InlineKeyboardButton('♻️ ABOUT ♻️', callback_data='about')
